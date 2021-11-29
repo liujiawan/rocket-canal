@@ -1,0 +1,4 @@
+server:
+  port: 8085
+rocketmq:
+  name-server: localhost:9876
